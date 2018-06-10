@@ -26,6 +26,7 @@ public interface IUser {
 
     User findUserByNo(String name);
 
+    public ArrayList<User> findUserShoupiao();
 
 //    public Employee findEmployeeByNo(String emp_no);
 

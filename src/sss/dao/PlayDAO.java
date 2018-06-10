@@ -186,7 +186,7 @@ public class PlayDAO implements IPlay {
                     info.setPlay_image(rs.getString("play_image"));
                     info.setPlay_length(rs.getInt("play_length"));
                     info.setPlay_ticket_price(rs.getBigDecimal("play_ticket_price"));
-                    info.setPlay_status(rs.getInt("play-status"));
+                    info.setPlay_status(rs.getInt("play_status"));
                     // 加入列表
                     list.add(info);
                 }

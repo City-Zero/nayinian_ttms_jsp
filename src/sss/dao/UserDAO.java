@@ -16,6 +16,41 @@ import java.util.ArrayList;
 public class UserDAO implements IUser{
 
     @Override
+    public ArrayList<User> findUserShoupiao(){
+        ArrayList<User> list = new ArrayList<User>();
+        User info = null;
+
+        Connection con = ConnectionManager.getInstance().getConnection();
+        PreparedStatement pstmt = null;
+        ResultSet rs = null;
+        try
+        {
+            // 获取所有用户数据
+            pstmt = con.prepareStatement("select * from user inner join employee on user.emp_no = employee.emp_no where type = 1");
+            rs = pstmt.executeQuery();
+            while(rs.next())
+            {
+                info = new User();
+                info.setEmp_no(rs.getString("emp_id"));
+                info.setEmp_pass(rs.getString("emp_name"));
+                info.setType(rs.getInt("type"));
+                info.setHead_path(rs.getString("head_path"));
+                // 加入列表
+                list.add(info);
+            }
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+        finally
+        {
+            ConnectionManager.close(rs, pstmt, con);
+            return list;
+        }
+    }
+
+    @Override
     public boolean insert(User user) {
         boolean result = false;
         if(user == null)

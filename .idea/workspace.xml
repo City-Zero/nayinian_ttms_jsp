@@ -10,104 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fade8653-9a97-4cb4-bf39-6bca313cf18f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/bootstrap-datetimepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.bn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ee.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.hy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.pt-BR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.rs-latin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.rs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.ua.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.zh-TW.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/aaa_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/aaa_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aaa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/META-INF/context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/BackEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/BackEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/Filter/Useradmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/Filter/Useradmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/Filter/Usereasy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/dao/EmployeeDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/dao/EmployeeDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/dao/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/idao/DAOFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/idao/DAOFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/administrator.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/mana/easy/aboutMe.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/mana/easy/seat.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/mana/easy/studio.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/mana/hard/employee.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/mana/hard/user.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/studio.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/BackEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/BackEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/sss/Filter/Useradmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/sss/Filter/Useradmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/sss/Filter/Usereasy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/sss/dao/EmployeeDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/sss/dao/EmployeeDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/sss/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/sss/dao/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aaa/sss/idao/DAOFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/sss/idao/DAOFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackEntry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employeeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/api/employeeServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myInfoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/api/myInfoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/api/seatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sss/Filter/Useradmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/Filter/Useradmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sss/Filter/Usereasy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sss/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/dao/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sss/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sss/idao/DAOFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/idao/DAOFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/studioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/api/studioServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/userServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/api/userServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/META-INF/context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/administrator.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mana/easy/aboutMe.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mana/aboutMe.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mana/easy/seat.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mana/seat.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mana/easy/studio.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mana/studio.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mana/hard/employee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mana/employee.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mana/hard/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mana/user.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/studio.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sss/idao/IUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/idao/IUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jingli/xse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jingli/xse.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,14 +37,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="xiaoshouServer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshouServer.java">
+      <file leaf-file-name="shoupiaoyuan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="191">
+              <caret line="49" column="19" lean-forward="true" selection-end-line="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xse.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayDAO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sss/dao/PlayDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="188" column="56" selection-start-line="188" selection-start-column="56" selection-end-line="188" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="me.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/me.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readmessge.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/static/javascript/readmessge.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sale_itemDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-230">
+              <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiaoshouDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/idao/IUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -179,8 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/static/javascript/message.js" />
-        <option value="$PROJECT_DIR$/src/myInfoServer.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/IEmployee.java" />
         <option value="$PROJECT_DIR$/web/static/javascript/manstu.js" />
         <option value="$PROJECT_DIR$/web/static/javascript/empList.js" />
@@ -190,7 +181,6 @@
         <option value="$PROJECT_DIR$/src/sss/idao/ISeat.java" />
         <option value="$PROJECT_DIR$/src/sss/dao/SeatDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/model/Employee.java" />
-        <option value="$PROJECT_DIR$/src/sss/idao/IUser.java" />
         <option value="$PROJECT_DIR$/web/mana/hard/user.jsp" />
         <option value="$PROJECT_DIR$/web/mana/easy/studio.jsp" />
         <option value="$PROJECT_DIR$/web/mana/hard/employee.jsp" />
@@ -209,8 +199,6 @@
         <option value="$PROJECT_DIR$/src/BackEntry.java" />
         <option value="$PROJECT_DIR$/src/account.java" />
         <option value="$PROJECT_DIR$/web/login.html" />
-        <option value="$PROJECT_DIR$/web/jingli/xse.jsp" />
-        <option value="$PROJECT_DIR$/src/sss/dao/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/ITicket.java" />
         <option value="$PROJECT_DIR$/src/sss/dao/TicketDao.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/IPlay.java" />
@@ -221,7 +209,6 @@
         <option value="$PROJECT_DIR$/src/sss/dao/EmployeeDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/model/Sale_item.java" />
         <option value="$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java" />
-        <option value="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/ISchdule.java" />
         <option value="$PROJECT_DIR$/src/sss/dao/SchduleDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/model/xiaoshou.java" />
@@ -230,6 +217,12 @@
         <option value="$PROJECT_DIR$/src/sss/idao/DAOFactory.java" />
         <option value="$PROJECT_DIR$/src/xiaoshouServer.java" />
         <option value="$PROJECT_DIR$/src/sss/api/xiaoshouServer.java" />
+        <option value="$PROJECT_DIR$/src/sss/idao/IUser.java" />
+        <option value="$PROJECT_DIR$/src/sss/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java" />
+        <option value="$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java" />
+        <option value="$PROJECT_DIR$/web/jingli/xse.jsp" />
+        <option value="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" />
       </list>
     </option>
   </component>
@@ -262,7 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,11 +268,44 @@
               <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sss" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sss" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoshou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sss" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -877,11 +903,12 @@
       <workItem from="1528416643684" duration="767000" />
       <workItem from="1528420531753" duration="10118000" />
       <workItem from="1528514555026" duration="299000" />
+      <workItem from="1528597227395" duration="3904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325348000" />
+    <option name="totallyTimeSpent" value="329252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -909,21 +936,21 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.5113293" side_tool="true" weight="0.3910891" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924472" weight="0.3284553" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4969651" weight="0.31023103" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3284553" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4886707" weight="0.3910891" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.4886707" visible="true" weight="0.6452145" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4969651" weight="0.33495936" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4600326" visible="true" weight="0.15861027" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4600326" visible="true" weight="0.16087614" />
       <window_info id="Web" order="6" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4969651" weight="0.5231023" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="7" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4969651" weight="0.31023103" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.3290938" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4969651" weight="0.5231023" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Properties" order="4" />
@@ -937,8 +964,9 @@
       <window_info anchor="bottom" id="Application Servers" order="10" weight="0.3284553" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Image Layers" order="5" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.489426" weight="0.39186993" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4969651" weight="0.5233333" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -957,7 +985,6 @@
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3284553" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4969651" weight="0.5233333" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4600326" visible="true" weight="0.15181269" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -986,8 +1013,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sss/Filter/Usereasy.java" />
-    <entry file="file://$PROJECT_DIR$/web/administrator.jsp" />
     <entry file="file://$PROJECT_DIR$/web/account.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-82" />
@@ -1043,13 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/me.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/artifacts/aaa_war_exploded/manager/xse.jsp" />
     <entry file="file://$PROJECT_DIR$/web/mana/employee.jsp">
       <provider selected="true" editor-type-id="text-editor">
@@ -1072,32 +1090,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2464">
-          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale.java" />
-    <entry file="file://$PROJECT_DIR$/src/sss/idao/IUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/model/Seat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="28" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1136,13 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181">
-          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/dao/EmployeeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1161,16 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" column="37" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/PlayDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-682">
-          <caret line="121" column="21" lean-forward="true" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1206,9 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="6" column="89" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,50 +1199,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/model/xiaoshou.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1273#1274#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1439#1440#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1297,13 +1234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/api/userServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
@@ -1318,22 +1248,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message.java" />
     <entry file="file://$PROJECT_DIR$/src/Logout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaa.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BackEntry.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1344,11 +1265,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshouServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
+        <state relative-caret-position="836">
           <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/api/userServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1283">
+          <caret line="123" column="39" lean-forward="true" selection-start-line="108" selection-start-column="12" selection-end-line="123" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/idao/IUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/javascript/readmessge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/me.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="49" column="19" lean-forward="true" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/PlayDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="188" column="56" selection-start-line="188" selection-start-column="56" selection-end-line="188" selection-end-column="56" />
         </state>
       </provider>
     </entry>

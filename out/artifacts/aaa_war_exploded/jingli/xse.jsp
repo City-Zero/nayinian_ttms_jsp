@@ -93,6 +93,8 @@
 </div>
 </body>
 <script>
+    getpeople();
+    getmovie();
     $('.form_date').datetimepicker({
         format: 'yyyy-mm-dd',
         language:  'zh-CN',
@@ -118,6 +120,50 @@
                 val.value = "";
             }
         }
+    }
+
+    function getmovie() {
+        let people = document.getElementById('movie');
+        let xhr = new XMLHttpRequest();
+        people.innerHTML = "<option value=\"0\" selected>*</option>";
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState == 4 && xhr.status == 200){
+                let json = JSON.parse(xhr.responseText);
+                if(json.status){
+                    for(let x of json.object){
+                        let item = document.createElement("option");
+                        item.setAttribute("value",x[0]);
+                        item.innerText = x[1];
+                        people.appendChild(item);
+                    }
+                }
+            }
+        }
+
+        xhr.open('GET',"/api/xiaoshou/movie");
+        xhr.send()
+    }
+
+    function getpeople() {
+        let people = document.getElementById('people');
+        let xhr = new XMLHttpRequest();
+        people.innerHTML = "<option value=\"0\" selected>*</option>";
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState == 4 && xhr.status == 200){
+                let json = JSON.parse(xhr.responseText);
+                if(json.status){
+                    for(let x of json.object){
+                        let item = document.createElement("option");
+                        item.setAttribute("value",x[0]);
+                        item.innerText = x[1];
+                        people.appendChild(item);
+                    }
+                }
+            }
+        }
+
+        xhr.open('GET',"/api/xiaoshou/shoupiaoyuan");
+        xhr.send()
     }
 
     function search() {
