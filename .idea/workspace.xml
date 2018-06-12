@@ -10,10 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fade8653-9a97-4cb4-bf39-6bca313cf18f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/api/xiaoshouServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/WEB-INF/classes/sss/api/xiaoshouServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/jingli/xse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/aaa_war_exploded/jingli/xse.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aaa/sss/api/xiaoshouServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aaa/sss/api/xiaoshouServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sss/api/xiaoshouServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/api/xiaoshouServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sss/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sss/idao/IUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss/idao/IUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/jingli/xse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jingli/xse.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,89 +41,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="xiaoshouServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshouServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="100" column="42" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="shoupiaoyuan.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="49" column="19" lean-forward="true" selection-end-line="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xse.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlayDAO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sss/dao/PlayDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="188" column="56" selection-start-line="188" selection-start-column="56" selection-end-line="188" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="me.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/me.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readmessge.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/static/javascript/readmessge.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sale_itemDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-230">
-              <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xiaoshouDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="264">
+              <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,8 +68,65 @@
       <file leaf-file-name="IUser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sss/idao/IUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            <state relative-caret-position="345">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xse.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/static/javascript/xse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="174" column="5" selection-start-line="174" selection-start-column="5" selection-end-line="174" selection-end-column="5" />
+              <folding>
+                <element signature="e#431#536#0" />
+                <element signature="e#623#786#0" />
+                <element signature="e#832#995#0" />
+                <element signature="e#872#1086#0" />
+                <element signature="e#1192#1404#0" />
+                <element signature="e#1449#1997#0" />
+                <element signature="e#2020#2565#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiaoshouDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiaoshou.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sss/model/xiaoshou.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xse.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="96" column="57" selection-start-line="96" selection-start-column="57" selection-end-line="96" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -145,9 +140,9 @@
         <option value="HTML File" />
         <option value="package-info" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -158,6 +153,10 @@
       <find>page</find>
       <find>studio_name</find>
       <find>alert</find>
+      <find>.form_date</find>
+      <find>form_date</find>
+      <find>display:block</find>
+      <find>data</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -172,8 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sss/idao/IEmployee.java" />
-        <option value="$PROJECT_DIR$/web/static/javascript/manstu.js" />
         <option value="$PROJECT_DIR$/web/static/javascript/empList.js" />
         <option value="$PROJECT_DIR$/web/mana/easy/seat.jsp" />
         <option value="$PROJECT_DIR$/web/static/javascript/seat.js" />
@@ -211,18 +208,20 @@
         <option value="$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/ISchdule.java" />
         <option value="$PROJECT_DIR$/src/sss/dao/SchduleDAO.java" />
-        <option value="$PROJECT_DIR$/src/sss/model/xiaoshou.java" />
         <option value="$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/Ixiaoshou.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/DAOFactory.java" />
         <option value="$PROJECT_DIR$/src/xiaoshouServer.java" />
-        <option value="$PROJECT_DIR$/src/sss/api/xiaoshouServer.java" />
         <option value="$PROJECT_DIR$/src/sss/idao/IUser.java" />
-        <option value="$PROJECT_DIR$/src/sss/dao/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java" />
         <option value="$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java" />
-        <option value="$PROJECT_DIR$/web/jingli/xse.jsp" />
         <option value="$PROJECT_DIR$/src/sss/dao/PlayDAO.java" />
+        <option value="$PROJECT_DIR$/src/sss/model/xiaoshou.java" />
+        <option value="$PROJECT_DIR$/src/sss/api/xiaoshouServer.java" />
+        <option value="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.min.css" />
+        <option value="$PROJECT_DIR$/src/sss/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/web/static/javascript/xse.js" />
+        <option value="$PROJECT_DIR$/web/jingli/xse.jsp" />
       </list>
     </option>
   </component>
@@ -245,16 +244,19 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="88" />
-    <option name="width" value="673" />
-    <option name="height" value="555" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -299,14 +301,58 @@
             <path>
               <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
               <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sss" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="mana" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TTMS_jsp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTMS_jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,30 +360,30 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/opt/apache-tomcat-8.0.48/lib/jsp-api.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ttms-web" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="java" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/sss/idao" />
-      <recent name="$PROJECT_DIR$/src/sss/dao" />
-      <recent name="$PROJECT_DIR$/src/sss/model" />
-      <recent name="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker" />
-      <recent name="$PROJECT_DIR$/web" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web/jingli" />
       <recent name="$PROJECT_DIR$/web/mana" />
       <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/web/lib" />
       <recent name="$PROJECT_DIR$/web/WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/static/javascript" />
+      <recent name="$PROJECT_DIR$/src/sss/idao" />
+      <recent name="$PROJECT_DIR$/src/sss/dao" />
+      <recent name="$PROJECT_DIR$/src/sss/model" />
+      <recent name="$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -904,11 +950,13 @@
       <workItem from="1528420531753" duration="10118000" />
       <workItem from="1528514555026" duration="299000" />
       <workItem from="1528597227395" duration="3904000" />
+      <workItem from="1528676379513" duration="13894000" />
+      <workItem from="1528762010539" duration="11685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329252000" />
+    <option name="totallyTimeSpent" value="354831000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -920,8 +968,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="-10" width="1368" height="751" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51057404" side_tool="true" weight="0.3284553" />
@@ -942,9 +989,9 @@
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3284553" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3284553" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.4886707" visible="true" weight="0.6452145" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4886707" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4969651" weight="0.33495936" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4600326" visible="true" weight="0.16087614" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4600326" visible="true" weight="0.16540785" />
       <window_info id="Web" order="6" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="7" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
@@ -964,9 +1011,8 @@
       <window_info anchor="bottom" id="Application Servers" order="10" weight="0.3284553" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.489426" weight="0.39186993" />
       <window_info id="Image Layers" order="5" />
-      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4969651" weight="0.5233333" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.489426" weight="0.39186993" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -980,6 +1026,7 @@
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4969651" visible="true" weight="0.3105691" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49924472" weight="0.3284553" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3284553" />
@@ -990,10 +1037,10 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info id="Web" order="6" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="7" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
       <window_info id="Structure" order="1" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info id="Favorites" order="7" sideWeight="0.53996736" side_tool="true" weight="0.15181269" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4969651" weight="0.5233333" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.516692" side_tool="true" weight="0.21322314" />
     </layout-to-restore>
   </component>
@@ -1013,44 +1060,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/account.jsp">
+    <entry file="file://$PROJECT_DIR$/src/sss/model/xiaoshou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/database.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-481" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/manager.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/mana/seat.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="242">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/javascript/message.js">
+    <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/javascript/userMessage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="3212">
+          <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1069,13 +1089,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/artifacts/aaa_war_exploded/manager/xse.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/mana/employee.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="42" selection-start-line="3" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/mana/aboutMe.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1095,13 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="28" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/META-INF/context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -1199,13 +1205,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/model/xiaoshou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/api/employeeServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1263,16 +1262,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshouServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sss/api/userServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1283">
@@ -1280,34 +1269,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/idao/IUser.java">
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="616">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="660">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/PlayDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="188" column="56" selection-start-line="188" selection-start-column="56" selection-end-line="188" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/Sale_itemDAO.java">
+    <entry file="file://$PROJECT_DIR$/web/me.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+        <state relative-caret-position="374">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1318,44 +1313,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/me.jsp">
+    <entry file="file://$PROJECT_DIR$/web/manager.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="-573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/mana/employee.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" column="93" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="93" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java">
+    <entry file="file://$PROJECT_DIR$/web/static/Bootstrap/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="49" column="19" lean-forward="true" selection-end-line="57" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/xiaoshouDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/movie.java">
+    <entry file="file://$PROJECT_DIR$/src/sss/model/xiaoshou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        <state relative-caret-position="242">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="8" column="10460" selection-start-line="8" selection-start-column="10460" selection-end-line="8" selection-end-column="10460" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshouServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="100" column="42" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/api/xiaoshou/shoupiaoyuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/idao/IUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sss/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/javascript/xse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="174" column="5" selection-start-line="174" selection-start-column="5" selection-end-line="174" selection-end-column="5" />
+          <folding>
+            <element signature="e#431#536#0" />
+            <element signature="e#623#786#0" />
+            <element signature="e#832#995#0" />
+            <element signature="e#872#1086#0" />
+            <element signature="e#1192#1404#0" />
+            <element signature="e#1449#1997#0" />
+            <element signature="e#2020#2565#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jingli/xse.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sss/dao/PlayDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="188" column="56" selection-start-line="188" selection-start-column="56" selection-end-line="188" selection-end-column="56" />
+        <state relative-caret-position="283">
+          <caret line="96" column="57" selection-start-line="96" selection-start-column="57" selection-end-line="96" selection-end-column="57" />
         </state>
       </provider>
     </entry>

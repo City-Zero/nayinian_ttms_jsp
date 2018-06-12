@@ -15,18 +15,25 @@
     <script src="/static/javascript/employee.js"></script>
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/static/BootStrap_DateTime_Picker/css/bootstrap-datetimepicker.min.css">
-    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
-    <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="/static/jquery/jquery.js"></script>
+    <script src="/static/Bootstrap/bootstrap.js"></script>
     <script src="/static/BootStrap_DateTime_Picker/js/bootstrap-datetimepicker.min.js"></script>
     <script src="/static/BootStrap_DateTime_Picker/js/locales/bootstrap-datetimepicker.zh-CN.js"></script>
     <script src="/static/javascript/readmessge.js"></script>
     <script src="/static/javascript/message.js"></script>
     <script src="/static/javascript/userMessage.js"></script>
+    <script src="/static/javascript/xse.js"></script>
+    <script src="/static/javascript/echarts.js"></script>
     <link rel="stylesheet" href="/static/css/me.css">
 
-    <script src="/static/javascript/empList.js"></script>
     <!- #include virtual="./me.html" ->
 </head>
+<style>
+    .tt{
+        /*position: absolute;*/
+
+    }
+</style>
 <body>
 <jsp:include page="/me.jsp"></jsp:include>
 <body>
@@ -62,7 +69,7 @@
                     <br>
                     <label>时间段</label>
                     <br>
-                    <div class="input-group date form_date col-md-8" data-date="" data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
+                    <div class="input-group date form_date col-md-8 tt" data-date="" data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
                         <input onblur="check_time(this)" id="start" class="form-control" type="text" value="" readonly>
                         <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
                     </div>至
@@ -84,17 +91,34 @@
 
         <div class="col-md-9" style="background-color: #dedef8;box-shadow:
          inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
-            <h4>第二列 - 分为四个盒子</h4>
+            <ul id="myTab" class="nav nav-tabs">
+                <li class="active"><a href="#bing" data-toggle="tab">影片</a>
+                </li>
+                <li><a href="#tiao" data-toggle="tab">售票员</a></li>
+            </ul>
+            <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" style="overflow: hidden" id="bing">
 
+                    <div id="bing1" style="width: 350px;height:367px;float: left"></div>
+
+                    <div id="bing2" style="width: 350px;height:367px;float: left;margin-left: 20px;"></div>
+                </div>
+                <div class="tab-pane fade" id="tiao">
+                    <!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
+                    <div id="main" style="width: 600px;height:367px;"></div>
+                </div>
+            </div>
         </div>
-
     </div>
-
 </div>
 </body>
 <script>
+    var User_id;
+    var Play_id;
+
     getpeople();
     getmovie();
+    //日期控件
     $('.form_date').datetimepicker({
         format: 'yyyy-mm-dd',
         language:  'zh-CN',
@@ -104,83 +128,10 @@
         todayHighlight: 1,
         startView: 2,
         minView: 2,
-        forceParse: 0
+        forceParse: 0,
     });
 
-    function check_time(val) {
-        let start = document.getElementById("start");
-        let end = document.getElementById("end");
-        if(start.value == "" || end.value == ""){
-            return;
-        }else{
-            let s_time = Date.parse(start.value);
-            let e_time = Date.parse(end.value);
-            if(s_time > e_time){
-                alert("时间段不合法！");
-                val.value = "";
-            }
-        }
-    }
 
-    function getmovie() {
-        let people = document.getElementById('movie');
-        let xhr = new XMLHttpRequest();
-        people.innerHTML = "<option value=\"0\" selected>*</option>";
-        xhr.onreadystatechange = function(){
-            if(xhr.readyState == 4 && xhr.status == 200){
-                let json = JSON.parse(xhr.responseText);
-                if(json.status){
-                    for(let x of json.object){
-                        let item = document.createElement("option");
-                        item.setAttribute("value",x[0]);
-                        item.innerText = x[1];
-                        people.appendChild(item);
-                    }
-                }
-            }
-        }
 
-        xhr.open('GET',"/api/xiaoshou/movie");
-        xhr.send()
-    }
-
-    function getpeople() {
-        let people = document.getElementById('people');
-        let xhr = new XMLHttpRequest();
-        people.innerHTML = "<option value=\"0\" selected>*</option>";
-        xhr.onreadystatechange = function(){
-            if(xhr.readyState == 4 && xhr.status == 200){
-                let json = JSON.parse(xhr.responseText);
-                if(json.status){
-                    for(let x of json.object){
-                        let item = document.createElement("option");
-                        item.setAttribute("value",x[0]);
-                        item.innerText = x[1];
-                        people.appendChild(item);
-                    }
-                }
-            }
-        }
-
-        xhr.open('GET',"/api/xiaoshou/shoupiaoyuan");
-        xhr.send()
-    }
-
-    function search() {
-        let movie = document.getElementById("movie");
-        let people = document.getElementById("people");
-        let start = document.getElementById("start");
-        let end = document.getElementById("end");
-        alert(movie.value+people.value+start.value+end.value);
-        let xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = function () {
-            if(xhr.readyState == 4 && xhr.status == 200){
-                alert(xhr.responseText);
-            }
-        };
-        xhr.open("GET","/api/xiaoshou?movie="+movie.value+"&people="+people.value+"&start="+start.value+"&end="+end.value);
-        xhr.send();
-
-    }
 </script>
 </html>

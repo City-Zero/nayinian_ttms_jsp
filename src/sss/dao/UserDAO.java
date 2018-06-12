@@ -26,7 +26,8 @@ public class UserDAO implements IUser{
         try
         {
             // 获取所有用户数据
-            pstmt = con.prepareStatement("select * from user inner join employee on user.emp_no = employee.emp_no where type = 1");
+            //where type = 1 为了方便不加这句
+            pstmt = con.prepareStatement("select * from user inner join employee on user.emp_no = employee.emp_no ");
             rs = pstmt.executeQuery();
             while(rs.next())
             {

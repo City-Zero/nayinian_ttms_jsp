@@ -16,10 +16,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Writer;
 import java.text.DateFormat;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.sql.Time;
+import java.util.Date;
 
 import static sss.idao.DAOFactory.createxiaoshouDAO;
 
@@ -64,6 +66,17 @@ public class xiaoshouServer extends HttpServlet {
                 e.printStackTrace();
             }
         }
+        SimpleDateFormat simpleDateFormat=new SimpleDateFormat("yyyy-MM-dd");
+        try {
+            Date date=simpleDateFormat.parse(start);
+        } catch(ParseException px) {
+            start = null;
+        }
+        try {
+            Date date=simpleDateFormat.parse(end);
+        } catch(ParseException px) {
+            end = null;
+        }
         ArrayList<xiaoshou> list = DAOFactory.createxiaoshouDAO().findxiaoshouAll(movie_id,people_id,start,end);
 
 
@@ -79,12 +92,13 @@ public class xiaoshouServer extends HttpServlet {
         for (xiaoshou s : list
                 ){
             jsonarr = new JSONArray();
-            jsonarr.add(String.valueOf(s.getSale_item_id()));
-            jsonarr.add(String.valueOf(s.getSale_item_price()));
-            jsonarr.add(String.valueOf(s.getEmp_id()));
+            jsonarr.add(s.getSale_item_id());
+            jsonarr.add(s.getSale_item_price());
+            jsonarr.add(s.getEmp_id());
+            jsonarr.add(s.getPlay_id());
             jsonarr.add(String.valueOf(sdf.format(s.getSale_time())));
-            jsonarr.add(String.valueOf(s.getSale_type()));
-            jsonarr.add(String.valueOf(s.getSale_status()));
+            jsonarr.add(s.getSale_type());
+            jsonarr.add(s.getSale_status());
 
             all.add(jsonarr);
         }
